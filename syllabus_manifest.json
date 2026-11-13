@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": "neet_ug_2027_official",
+    "category": "NEET",
+    "title": "NTA NEET UG Official Syllabus 2026-2027",
+    "description": "NMC updated syllabus with NCERT rationalized topics and marks breakdown.",
+    "fileSizeLabel": "351 KB",
+    "pageCount": 14,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/NTA_NEET_UG_Official_Syllabus.pdf",
+    "localFileName": "NTA_NEET_UG_Official_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "jee_main_2027_official",
+    "category": "JEE",
+    "title": "NTA JEE Main 2026-2027 Official Syllabus",
+    "description": "Mathematics, Physics & Chemistry full syllabus with chapter-wise weightage.",
+    "fileSizeLabel": "1.17 MB",
+    "pageCount": 18,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/NTA_JEE_Main_Official_Syllabus.pdf",
+    "localFileName": "NTA_JEE_Main_Official_Syllabus.pdf",
+    "isHighWeightage": true
+  }
+]
