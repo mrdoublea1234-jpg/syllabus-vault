@@ -20,5 +20,159 @@
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/NTA_JEE_Main_Official_Syllabus.pdf",
     "localFileName": "NTA_JEE_Main_Official_Syllabus.pdf",
     "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_physics_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Physics (PHYS) Complete Semester Syllabus",
+    "description": "Official Council Curriculum for Semesters I, II, III & IV with Practical & Marks Breakdown.",
+    "fileSizeLabel": "17.6 MB",
+    "pageCount": 42,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Physics_PHYS_Syllabus.pdf",
+    "localFileName": "WBCHSE_Physics_PHYS_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_chemistry_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Chemistry (CHEM) Complete Semester Syllabus",
+    "description": "Physical, Inorganic & Organic Chemistry Syllabus with Lab Curriculum & Marks Distribution.",
+    "fileSizeLabel": "11.1 MB",
+    "pageCount": 36,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Chemistry_CHEM_Syllabus.pdf",
+    "localFileName": "WBCHSE_Chemistry_CHEM_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_mathematics_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Mathematics (MATH) Complete Semester Syllabus",
+    "description": "Calculus, Algebra, Coordinate Geometry, Vectors & Probability with Project Pattern.",
+    "fileSizeLabel": "11.5 MB",
+    "pageCount": 32,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Mathematics_MATH_Syllabus.pdf",
+    "localFileName": "WBCHSE_Mathematics_MATH_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_biology_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Biological Science (BIOS) Semester Syllabus",
+    "description": "Botany & Zoology Theory, Practical Marks Breakdown & Unit-wise Blueprint.",
+    "fileSizeLabel": "139 KB",
+    "pageCount": 12,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Biological_Sciences_BIOS_Syllabus.pdf",
+    "localFileName": "WBCHSE_Biological_Sciences_BIOS_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_bengali_a_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Bengali-A (BNGA - 1st Language) Syllabus",
+    "description": "Prose, Poetry, Drama, Grammar & Rapid Reader Official Semester Curriculum.",
+    "fileSizeLabel": "96 KB",
+    "pageCount": 8,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Bengali_A_BNGA_Syllabus.pdf",
+    "localFileName": "WBCHSE_Bengali_A_BNGA_Syllabus.pdf",
+    "isHighWeightage": false
+  },
+  {
+    "id": "wbchse_bengali_b_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE Bengali-B (BNGB - 2nd Language) Syllabus",
+    "description": "Comprehensive 2nd Language Bengali Semester Curriculum & Marking Blueprint.",
+    "fileSizeLabel": "8.3 MB",
+    "pageCount": 24,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Bengali_B_BNGB_Syllabus.pdf",
+    "localFileName": "WBCHSE_Bengali_B_BNGB_Syllabus.pdf",
+    "isHighWeightage": false
+  },
+  {
+    "id": "wbchse_english_b_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE English-B (ENGB - 2nd Language) Syllabus",
+    "description": "Official English Core Curriculum: Prose, Verse, Play, ESP Writing & Project Work.",
+    "fileSizeLabel": "173 KB",
+    "pageCount": 10,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_English_B_ENGB_Syllabus.pdf",
+    "localFileName": "WBCHSE_English_B_ENGB_Syllabus.pdf",
+    "isHighWeightage": false
+  },
+  {
+    "id": "wbchse_english_a_official",
+    "category": "WBCHSE_12",
+    "title": "WBCHSE English-A (ENGA - 1st Language) Syllabus",
+    "description": "English Language & Literature Higher Secondary Detailed Semester Framework.",
+    "fileSizeLabel": "142 KB",
+    "pageCount": 10,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_English_A_ENGA_Syllabus.pdf",
+    "localFileName": "WBCHSE_English_A_ENGA_Syllabus.pdf",
+    "isHighWeightage": false
+  },
+  {
+    "id": "wbchse_11_physics_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 Physics (PHYS) Semester I & II",
+    "description": "Mechanics, Thermodynamics, Waves & Oscillations with Practical Syllabus.",
+    "fileSizeLabel": "17.6 MB",
+    "pageCount": 42,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Physics_PHYS_Syllabus.pdf",
+    "localFileName": "WBCHSE_Physics_PHYS_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_11_chemistry_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 Chemistry (CHEM) Semester I & II",
+    "description": "Structure of Atom, Chemical Bonding, States of Matter, Thermodynamics & Organic Basics.",
+    "fileSizeLabel": "11.1 MB",
+    "pageCount": 36,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Chemistry_CHEM_Syllabus.pdf",
+    "localFileName": "WBCHSE_Chemistry_CHEM_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_11_math_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 Mathematics (MATH) Semester I & II",
+    "description": "Sets, Relations, Trigonometry, Algebra, Coordinate Geometry & Introductory Calculus.",
+    "fileSizeLabel": "11.5 MB",
+    "pageCount": 32,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Mathematics_MATH_Syllabus.pdf",
+    "localFileName": "WBCHSE_Mathematics_MATH_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_11_biology_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 Biological Science (BIOS) Semester I & II",
+    "description": "Diversity in Living World, Cell Biology, Plant Physiology & Human Physiology.",
+    "fileSizeLabel": "139 KB",
+    "pageCount": 12,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Biological_Sciences_BIOS_Syllabus.pdf",
+    "localFileName": "WBCHSE_Biological_Sciences_BIOS_Syllabus.pdf",
+    "isHighWeightage": true
+  },
+  {
+    "id": "wbchse_11_bengali_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 Bengali-A (BNGA) Semester I & II",
+    "description": "Class 11 Bengali Prose, Poetry, International Stories & Language History.",
+    "fileSizeLabel": "96 KB",
+    "pageCount": 8,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_Bengali_A_BNGA_Syllabus.pdf",
+    "localFileName": "WBCHSE_Bengali_A_BNGA_Syllabus.pdf",
+    "isHighWeightage": false
+  },
+  {
+    "id": "wbchse_11_english_official",
+    "category": "WBCHSE_11",
+    "title": "WBCHSE Class 11 English-B (ENGB) Semester I & II",
+    "description": "Class 11 English Prose, Verse, Drama, Textual Grammar & Writing Skills.",
+    "fileSizeLabel": "173 KB",
+    "pageCount": 10,
+    "cdnUrl": "https://cdn.jsdelivr.net/gh/mrdoublea1234-jpg/syllabus-vault@main/syllabus/WBCHSE_English_B_ENGB_Syllabus.pdf",
+    "localFileName": "WBCHSE_English_B_ENGB_Syllabus.pdf",
+    "isHighWeightage": false
   }
 ]
